@@ -2,10 +2,12 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: pacmanCTF.gif
+sub: Artificial Intelligence
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Summer 2020
+language: Python
+category: Artificial Intellegence
+description: The Pacman map is divided into two halves blue (right) and red (left). Red agents (which all have even indices) must defend the red food while trying to eat the blue food. When on the red side, a red agent is a ghost. When crossing into enemy territory, the agent becomes a Pacman. The objective is to create a team of agents that are able to win matches.
+github-repo: Link
 ---

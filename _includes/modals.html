@@ -13,15 +13,15 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
-                            <hr class="star-primary">
+                            <!-- <hr class="star-primary"> -->
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
-                                {% if post.client %}
-                                    <li>Client:
-                                        <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                {% if post.language %}
+                                    <li>Language:
+                                        <strong><a href="http://startbootstrap.com">{{ post.language }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
@@ -32,8 +32,14 @@
                                     </li>
                                 {% endif %}
                                 {% if post.category %}
-                                    <li>Service:
+                                    <li>Subject:
                                         <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                        </strong>
+                                    </li>
+                                {% endif %}
+                                {% if post.github-repo %}
+                                    <li>Github Repo:
+                                        <strong><a target="_blank" href="https://github.com/sevarbiter/CS179M-sam-wesley-pacman-ctf-version-0">{{ post.github-repo }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
