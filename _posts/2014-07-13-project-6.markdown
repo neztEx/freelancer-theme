@@ -5,8 +5,10 @@ date: 2014-07-15
 img: aStarSearch.gif
 alt: image-alt
 project-date: Spring 2020
-client: Start Bootstrap
+language: Python
 category: Artificial Intelligence
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: An AI program that solves the eight-puzzle, using a uniform cost search, A* misplaced tile search, and A* euclidean distance search. Providing an analysis on time of completion for each method provided. A small project to demonstrate search algorithms in AI computation.
 github-repo: https://github.com/sevarbiter/CS179M-sam-wesley-pacman-ctf-version-0
+title: Eight-Puzzle Solver
+
 ---

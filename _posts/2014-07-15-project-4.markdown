@@ -5,7 +5,8 @@ date: 2014-07-15
 img: embeddedSystem.gif
 alt: image-alt
 project-date: Fall 2019
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+Language: C/C++
+category: Embedded Systems
+description: The game is a minesweeper maze, in which, the player guides a lighted led on an 8x8 LED Matrix from edge to edge without detonating any mines along the way. The player is guided by displaying the number of mines that are currently adjacent to his current position on the 7-Segment LED. If the player were to lose he can restart the game by pressing the button.
+title: Maze Game
 ---

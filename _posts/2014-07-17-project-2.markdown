@@ -5,7 +5,9 @@ date: 2014-07-17
 img: ttteam.gif
 alt: image-alt
 project-date: Spring 2020
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+language: Javascript
+category: Full Stack Development
+description: TTEAM application, our app is to design with a react native as the front end and node js as the backend. Given a Kickstarter dataset, we have designed and built the application to house the data in which the user is able to manipulate through the front end. My role in the project was to develop the front-end of the application and create the mock template design to be used as the starting point for our 3 man team.
+github-repo: https://github.com/rtodd001/ttteam
+title: Analytic Data App
 ---

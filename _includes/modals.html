@@ -21,25 +21,25 @@
                             <ul class="list-inline item-details">
                                 {% if post.language %}
                                     <li>Language:
-                                        <strong><a href="http://startbootstrap.com">{{ post.language }}</a>
+                                        <strong>{{ post.language }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.project-date %}
                                     <li>Date:
-                                        <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                        <strong>{{ post.project-date }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.category %}
                                     <li>Subject:
-                                        <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                        <strong>{{ post.category }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.github-repo %}
                                     <li>Github Repo:
-                                        <strong><a target="_blank" href="https://github.com/sevarbiter/CS179M-sam-wesley-pacman-ctf-version-0">{{ post.github-repo }}</a>
+                                        <strong><a target="_blank" href={{post.github-repo}}>Link</a>
                                         </strong>
                                     </li>
                                 {% endif %}

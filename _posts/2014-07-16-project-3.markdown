@@ -5,7 +5,9 @@ date: 2014-07-16
 img: chatBot.gif
 alt: image-alt
 project-date: Spring 2020
-client: Start Bootstrap
-category: Natural Language Processing / Machine Learning
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+language: Python
+category: NLP/Machine Learning
+description: The purpose of our project is to create a naturally entertaining chatbot. We allow the user to freely speak to the chatbot and hear it talk back. Additionally, the chatbot can handle commands to play games and check the weather. My role in this project was to develope the base code for connecting google's API's to our chatbot along with the chatbot game logic.
+github-repo: https://github.com/rtodd001/ChatBot
+title: ChatBot
 ---

@@ -5,7 +5,9 @@ date: 2014-07-14
 img: databaseSQL.gif
 alt: image-alt
 project-date: Summer 2020
-client: Start Bootstrap
+language: Java
 category: SQL Database Management
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: A database application for a mechanics shop. The system will be used to track information about customers, cars, mechanics, car ownership, service request and billing information. The database is created using postgreSQL. My role was to develope the main interface the user to interact with, the application is able to access a SQL database and make SQL calls to the database in order to add or modify any data.
+github-repo: https://github.com/neztEx/DatabaseSQLMechanicShop
+title: Mechanic Shop - SQL Database
 ---

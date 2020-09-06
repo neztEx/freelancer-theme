@@ -7,7 +7,8 @@ sub: Artificial Intelligence
 alt: image-alt
 project-date: Summer 2020
 language: Python
-category: Artificial Intellegence
-description: The Pacman map is divided into two halves blue (right) and red (left). Red agents (which all have even indices) must defend the red food while trying to eat the blue food. When on the red side, a red agent is a ghost. When crossing into enemy territory, the agent becomes a Pacman. The objective is to create a team of agents that are able to win matches.
-github-repo: Link
+category: Artificial Intelligence
+description: The Pacman map is divided into two halves blue (right) and red (left). Red agents (which all have even indices) must defend the red food while trying to eat the blue food. When on the red side, a red agent is a ghost. When crossing into enemy territory, the agent becomes a Pacman. The objective is to create a team of agents that are able to win matches. With the use of reinforcement learning, I developed a class to use approximate q learning so that our agents are able to learn through experiences.
+github-repo: https://github.com/sevarbiter/CS179M-sam-wesley-pacman-ctf-version-0
+title: Pacman CTF Agents
 ---
