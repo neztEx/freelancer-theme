@@ -7,6 +7,7 @@ alt: image-alt
 project-date: Spring 2020
 language: Python
 category: NLP/Machine Learning
+sub: NLP/Machine Learning
 description: The purpose of our project is to create a naturally entertaining chatbot. We allow the user to freely speak to the chatbot and hear it talk back. Additionally, the chatbot can handle commands to play games and check the weather. My role in this project was to develope the base code for connecting google's API's to our chatbot along with the chatbot game logic.
 github-repo: https://github.com/rtodd001/ChatBot
 title: ChatBot

@@ -40,8 +40,15 @@ h4 {
     font-weight: 600;
     text-align: left;
     padding-bottom: 5px;
-},
-h5,
+    margin: 0;
+}
+h5{
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    text-align: left;
+    padding-bottom: 5px;
+    margin: 0;
+}
 h6 {
     text-transform: upspercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -116,7 +123,7 @@ header .intro-text .name {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
-    text-align: left;
+    text-align: center;
 }
 
 header .sub {
@@ -141,14 +148,12 @@ header .intro-text .skills {
 
     header .intro-text .name {
         font-size: 4.75em;
-        padding-top: 0px;
-        padding-bottom: 0px;
+        
     }
 
     header .sub {
         font-size: 2.50em;
-        padding-top: 0px;
-        padding-bottom: 0px;
+        
     }
 
     header .intro-text .skills {
@@ -237,6 +242,7 @@ section.success {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    padding: 10px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -314,7 +320,6 @@ section.success {
 /* adding ABOUT section column css style -SAM */
 .column {
     float: left;
-    /* padding: 10px; */
 }
 
 .left {
@@ -338,9 +343,9 @@ section.success {
         width: 100%
     }
 }
-/* .row-col { 
+.row-col { 
     display: flex
-} */
+}
 
 ul.bullet-points {
     list-style-position: outside;
@@ -503,6 +508,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
+    margin-top: 10px;
 }
 
 .portfolio-modal .modal-content .item-details {
@@ -555,13 +561,15 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 
+/* type-text styles below -SAM */
+
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
+} */
 header body {
   font-family: 'Montserrat', sans-serif;
   background-color: #000;
@@ -584,6 +592,14 @@ header .container p {
 header .container p span.typed-text {
   font-weight: normal;
   color: #dd7732;
+  font-weight: 800;
+  font-size: 5rem;
+}
+header .container p span.typed-text-off {
+    font-weight: normal;
+    color: #ffffff;
+    font-weight: 800;
+    font-size: 10rem;
 }
 header .container p span.cursor {
   display: inline-block;
@@ -591,6 +607,8 @@ header .container p span.cursor {
   margin-left: 0.1rem;
   width: 3px;
   animation: blink 1s infinite;
+  font-size: 10rem;
+
 }
 header .container p span.cursor.typing {
   animation: none;

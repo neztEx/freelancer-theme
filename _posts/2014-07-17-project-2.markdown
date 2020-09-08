@@ -7,6 +7,7 @@ alt: image-alt
 project-date: Spring 2020
 language: Javascript
 category: Full Stack Development
+sub: Full Stack Development
 description: TTEAM application, our app is to design with a react native as the front end and node js as the backend. Given a Kickstarter dataset, we have designed and built the application to house the data in which the user is able to manipulate through the front end. My role in the project was to develop the front-end of the application and create the mock template design to be used as the starting point for our 3 man team.
 github-repo: https://github.com/rtodd001/ttteam
 title: Analytic Data App

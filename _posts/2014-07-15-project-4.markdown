@@ -7,6 +7,7 @@ alt: image-alt
 project-date: Fall 2019
 Language: C/C++
 category: Embedded Systems
+sub: Embedded Systems
 description: The game is a minesweeper maze, in which, the player guides a lighted led on an 8x8 LED Matrix from edge to edge without detonating any mines along the way. The player is guided by displaying the number of mines that are currently adjacent to his current position on the 7-Segment LED. If the player were to lose he can restart the game by pressing the button.
 title: Maze Game
 ---

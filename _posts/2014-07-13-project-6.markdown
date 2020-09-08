@@ -7,6 +7,7 @@ alt: image-alt
 project-date: Spring 2020
 language: Python
 category: Artificial Intelligence
+sub: Artificial Intelligence
 description: An AI program that solves the eight-puzzle, using a uniform cost search, A* misplaced tile search, and A* euclidean distance search. Providing an analysis on time of completion for each method provided. A small project to demonstrate search algorithms in AI computation.
 github-repo: https://github.com/sevarbiter/CS179M-sam-wesley-pacman-ctf-version-0
 title: Eight-Puzzle Solver

@@ -15,13 +15,14 @@
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
-                                    <p>{{post.category}}</p>
+                                    <!-- <p>{{post.category}}</p> -->
                                 </div>
                             </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                         <!-- <label for="name">{{post.sub}}</label> -->
-                        <!-- <div label="">{{post.sub}}</div> -->
+                        <h4 style="text-align: center; color:#dd7732; padding-top: 10px;">{{post.sub}}</h4>
+                        <!-- <div label="name" style="text-align:center;">{{post.sub}}</div> -->
                     </div>
                 {% endfor %}
             </div>

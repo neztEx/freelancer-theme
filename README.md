@@ -25,6 +25,12 @@ description: The description of the project
 ## Demo
 View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
 
+## To build and run on localhost
+
+`bundle exec jekyll serve --livereload`
+
+`bundle exec jekyll build`
+
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
 
