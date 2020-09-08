@@ -41,3 +41,4 @@ Transfer contents of `_site` to the github.io repo
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
+c
