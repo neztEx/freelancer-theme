@@ -29,7 +29,12 @@ View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-the
 
 `bundle exec jekyll serve --livereload`
 
+## Build site and export _site
+
 `bundle exec jekyll build`
+
+Transfer contents of `_site` to the github.io repo
+
 
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
